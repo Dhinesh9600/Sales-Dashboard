@@ -14,5 +14,8 @@ Features & Insights:
 This project highlights the power of Power BI for data visualization, making it easier to track performance and optimize business strategies.
 
 
+DEMO: https://app.powerbi.com/groups/me/reports/734f1869-1ea2-4138-820d-6b3f5f7eeb1e/16f29bf869746d6edccd?experience=power-bi&bookmarkGuid=6c2cf3fe75e070012779
+
+
 ![image](https://github.com/user-attachments/assets/366f4cb2-b8ae-412f-82ce-6ca42f9257ef)
 ![image](https://github.com/user-attachments/assets/4f62e5c6-f7ea-4cc0-8ac2-a5d9eb250032)
