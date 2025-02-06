@@ -12,3 +12,7 @@ Features & Insights:
 ✅ Demographic Insights – Analyze sales performance by different age groups
 
 This project highlights the power of Power BI for data visualization, making it easier to track performance and optimize business strategies.
+
+
+![image](https://github.com/user-attachments/assets/366f4cb2-b8ae-412f-82ce-6ca42f9257ef)
+![image](https://github.com/user-attachments/assets/4f62e5c6-f7ea-4cc0-8ac2-a5d9eb250032)
